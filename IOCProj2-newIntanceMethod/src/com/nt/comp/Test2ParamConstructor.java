@@ -12,6 +12,7 @@ public class Test2ParamConstructor {
 		System.out.println("Test:: 0 - param constuctor");
 	}
 	
+	
 	public Test2ParamConstructor(int a, int b){
 		System.out.println("Test:: 2 - param constuctor");
 		this.a=a;
